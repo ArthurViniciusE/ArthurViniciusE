@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**ArthurViniciusE/ArthurViniciusE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Arthur Barbosa 👨🏻🇧🇷
 
-Here are some ideas to get you started:
+I'm a student of Internet Systems at the Federal Institute of Pernambuco - IFPE since 2020. 👨🏻‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I decided that I wanted to invest in the back-end development area. I'm studying Node.js and other technologies... 👨🏻‍💻
+
+### 🤖 "There are no strings on me" 🧠
+
+- 📍 From Pernambuco.
+- 💻 Back-end. 
+
+Reach me out 👇🏼
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/arthur-barbosa-164203174/) 
