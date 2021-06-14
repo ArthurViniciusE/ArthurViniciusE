@@ -4,7 +4,7 @@ My name is Arthur Barbosa 👨🏻🇧🇷
 
 I'm a student of Internet Systems at the Federal Institute of Pernambuco - IFPE since 2020. 👨🏻‍🎓
 
-Currently I decided that I wanted to invest in the back-end development area. I'm studying Node.js and other technologies... 👨🏻‍💻
+Currently i decided that i wanted to invest in the back-end development area. I'm studying Node.js and other technologies... 👨🏻‍💻
 
 ### 🤖 "There are no strings on me" 🧠
 
