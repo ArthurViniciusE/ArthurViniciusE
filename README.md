@@ -1,10 +1,10 @@
-# Hello 👋🏻
+# Hallo leute 👋🏻
 
 My name is Arthur Barbosa 👨🏻🇧🇷
 
 I'm a student of Internet Systems at the Federal Institute of Pernambuco - IFPE since 2020. 👨🏻‍🎓
 
-Currently i decided that i wanted to invest in the back-end development area. I'm studying Node.js and other technologies... 👨🏻‍💻
+Currently i work as a back-end developer focusing on integrations between systems. Some of the technologies i use are TypeScript, Java, NestJS, MongDB and other technologies... 👨🏻‍💻
 
 ### 🤖 "There are no strings on me" 🧠
 
