@@ -2,9 +2,9 @@
 
 My name is Arthur Barbosa 👨🏻🇧🇷
 
-I'm a student of Internet Systems at the Federal Institute of Pernambuco - IFPE since 2020. 👨🏻‍🎓
+I'm a back-end developer and student of Digital Security at Uninassau since december 2024. 👨🏻‍🎓
 
-Currently i work as a back-end developer focusing on integrations between systems. Some of the technologies i use are TypeScript, Java, NestJS, MongDB and other technologies... 👨🏻‍💻
+Currently i work as a back-end developer focusing on integrations between systems. Some of the technologies i use are TypeScript, NestJS, MongDB,PostegreSql and other technologies... 👨🏻‍💻
 
 ### 🤖 "There are no strings on me" 🧠
 
